@@ -21,6 +21,12 @@ buscando um estagio na area de programação de Preferencia que seja na parte de
             src="https://custom-icon-badges.demolab.com/github/followers/Matheusgaldini7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="https://github.com/Matheusgaldini7?tab=followers">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue"
+        />
 </p>
 
 ### 🤖 Linguagens e Tecnologias
