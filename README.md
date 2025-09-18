@@ -65,7 +65,6 @@ buscando um estagio na area de programação de Preferencia que seja na parte de
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-/>
 
 <img 
     align="left" 
@@ -83,7 +82,6 @@ buscando um estagio na area de programação de Preferencia que seja na parte de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-/>
 <img 
     align="left" 
     alt="Oracle" 
