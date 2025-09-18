@@ -7,14 +7,14 @@ Atualmente estou cursando Sistemas de Informações na PUC-CAMPINAS.sou apaixona
 e sempre tive certa facilidade desde de criança começei a programar em Janeiro de 2024 como freelancer e estou atualmente
 buscando um estagio na area de programação de Preferencia que seja na parte de Back-End
 
-<a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+<a href="https://github.com/Matheusgaldini7?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Matheusgaldini7?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Matheusgaldini7?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
