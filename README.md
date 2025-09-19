@@ -4,7 +4,8 @@
 
 Me chamo **Matheus Vinicius Soares Galdini**, tenho 20 anos e sou natural de São Paulo.  
 Atualmente estou cursando **Sistemas de Informação na PUC-Campinas**.  
-Sou apaixonado por tecnologia e sempre tive certa facilidade desde criança.
+Sou apaixonado por tecnologia e sempre tive certa facilidade na area de desenvolvimento de software
+.
 
 Comecei a programar em **janeiro de 2024** como freelancer e atualmente estou buscando um **estágio na área de programação**, de preferência na parte de **Back-End**.
 
