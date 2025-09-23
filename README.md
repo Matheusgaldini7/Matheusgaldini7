@@ -2,7 +2,7 @@
 
 **Desenvolvedor**
 
-Me chamo **Matheus Vinicius Soares Galdini**, tenho 20 anos e sou natural de São Paulo.  
+Me chamo **Matheus Vinicius Soares Galdini**, tenho 20 anos e sou natural de Campinas/São Paulo.  
 Atualmente estou cursando **Sistemas de Informação na PUC-Campinas**.  
 Sou apaixonado por tecnologia e sempre tive certa facilidade na area de desenvolvimento de software
 .
